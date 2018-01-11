@@ -9,4 +9,4 @@ def joke():
     print("Joked!")
 
 def shout():
-    print("AAAAAAAAAAAAAAAAAAAAA")
+    print("BBBBBBBBBB")
